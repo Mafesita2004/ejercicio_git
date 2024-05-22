@@ -1,2 +1,6 @@
+HEAD
 archivo 1 
 hola desde mi primera ramahola desde un cambio 
+
+modifico mi archivo ortograficamente
+ Bugfix_branch
